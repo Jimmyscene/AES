@@ -16,4 +16,4 @@ if __name__ == '__main__':
 	text=getMatrix(text)
 
 	key="01010101010101010101010101010101"
-	print AES(key,text)
+	PrintHexMatrix(AES(key,text))

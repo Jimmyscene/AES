@@ -1,2 +1,2 @@
 # AES
-A python implementation of the Advanced Encryption Standard cipher.
+A python(2) implementation of the Advanced Encryption Standard cipher.
